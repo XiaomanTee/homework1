@@ -1,0 +1,58 @@
+commit 48027fbe118ced31e0df8078d476e07717134c96
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Wed May 24 18:21:10 2023 +0100
+
+    Revert "remove one line"
+    
+    This reverts commit f94e993cc2662e025f20ea02b599feeb1e1b4054.
+
+diff --git a/chorus-occurence-2.txt b/chorus-occurence-2.txt
+index ae88fba..cd804b9 100644
+--- a/chorus-occurence-2.txt
++++ b/chorus-occurence-2.txt
+@@ -1,4 +1,4 @@
+-
++So, I say a little prayer
+ And hope my dreams will take me there
+ Where the skies are blue
+ To see you once again, my love
+
+commit f94e993cc2662e025f20ea02b599feeb1e1b4054
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Wed May 24 18:18:14 2023 +0100
+
+    remove one line
+
+diff --git a/chorus-occurence-2.txt b/chorus-occurence-2.txt
+index cd804b9..ae88fba 100644
+--- a/chorus-occurence-2.txt
++++ b/chorus-occurence-2.txt
+@@ -1,4 +1,4 @@
+-So, I say a little prayer
++
+ And hope my dreams will take me there
+ Where the skies are blue
+ To see you once again, my love
+
+commit 28f934228f1498be8897482051102e5af9bcbcec
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:20:59 2023 +0100
+
+    main chorus
+
+diff --git a/chorus-occurence-2.txt b/chorus-occurence-2.txt
+new file mode 100644
+index 0000000..cd804b9
+--- /dev/null
++++ b/chorus-occurence-2.txt
+@@ -0,0 +1,9 @@
++So, I say a little prayer
++And hope my dreams will take me there
++Where the skies are blue
++To see you once again, my love
++Overseas, from coast to coast
++To find a place I love the most
++Where the fields are green
++To see you once again
++My love
+\ No newline at end of file

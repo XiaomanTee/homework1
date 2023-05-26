@@ -1,0 +1,79 @@
+commit 8a134863e56f8d01c73a06ae9f4a522c56a6e993
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Wed May 24 18:31:16 2023 +0100
+
+    replace new
+
+commit 48027fbe118ced31e0df8078d476e07717134c96
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Wed May 24 18:21:10 2023 +0100
+
+    Revert "remove one line"
+    
+    This reverts commit f94e993cc2662e025f20ea02b599feeb1e1b4054.
+
+commit f94e993cc2662e025f20ea02b599feeb1e1b4054
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Wed May 24 18:18:14 2023 +0100
+
+    remove one line
+
+commit 3fc91dc7fe7db41b49a92b0ea8c2fc8791ce609f
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:30:50 2023 +0100
+
+    outro
+
+commit 37efee5faa516a427ac9d56add31ed5953f34e35
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:29:30 2023 +0100
+
+    main chorus 3
+
+commit 38a5c80f1d3d23977dcec10fb543ce837e7cf8f3
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:27:12 2023 +0100
+
+    bridge
+
+commit 62416f2c33dd4403735485cae1ed6ca2838ad675
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:25:39 2023 +0100
+
+    main chorus 2
+
+commit ad545cd76a377954174c6d93507b99106fefea2f
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:24:04 2023 +0100
+
+    pre chorus 2
+
+commit 477c224738ce23d95fabefc6cf25fdc521e407fd
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:22:38 2023 +0100
+
+    try to be strong
+
+commit 28f934228f1498be8897482051102e5af9bcbcec
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:20:59 2023 +0100
+
+    main chorus
+
+commit 2ad672704789d6ad85882dc9782b8229f9d8f5cc
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:18:50 2023 +0100
+
+    pre chorus
+
+commit 144f77a7fd31d04d94dc5651897400d8aa41e615
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:14:46 2023 +0100
+
+    memories
+
+commit ce159f98be4ce164d8388e772f5f6f0444f40a6d
+Author: Xiao Man <ansontingxiaoman@Ansons-MacBook.local>
+Date:   Mon May 22 22:00:31 2023 +0100
+
+    favorite song
